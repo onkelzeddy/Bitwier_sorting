@@ -1,0 +1,15 @@
+C:\Учеба\Новая папка\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Учеба\Новая папка\Project2\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Учеба\Новая папка\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Учеба\Новая папка\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Учеба\Проекты\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Учеба\Проекты\Project2\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Учеба\Проекты\Project2\Project2\x64\Debug\Project2.MyForm.resources
+C:\Учеба\Проекты\Project2\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Учеба\Проекты\Bitwise sorting\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Учеба\Проекты\Bitwise sorting\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache
+C:\Учеба\Проекты\Bitwise sorting\Project2\x64\Debug\Project2.MyForm.resources
+C:\Учеба\Проекты\Bitwise sorting\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
